@@ -1,3 +1,4 @@
-console.log("SOSO", "MOMO");
-console.log("ahhahahaha");
 console.log("conflicet");
+console.log("hi ")
+console.log(" lovely mai")
+
